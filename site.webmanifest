@@ -1,0 +1,15 @@
+{
+  "name": "Trio Restaurant & Lounge",
+  "short_name": "TRiO",
+  "description": "Soul food restaurant, cocktails and lounge on Hull Street Rd, Richmond, VA.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d0b0a",
+  "theme_color": "#0d0b0a",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
