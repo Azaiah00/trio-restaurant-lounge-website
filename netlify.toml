@@ -1,4 +1,4 @@
-# Netlify configuration for triorva.com (static site, no build step)
+# Netlify configuration for trio-restaurant-lounge-website.netlify.app (static site, no build step)
 [build]
   publish = "."
 

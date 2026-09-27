@@ -2,7 +2,7 @@
 
 > Soul food restaurant, cocktail bar and lounge at 3817 Hull Street Rd, Richmond, VA 23224 (Southside Richmond). Soul food by day, lounge by night: fried and smothered pork chops, catfish, wings, turkey wings, crab cakes and classic sides, plus signature Hennessy cocktails, a full bar, a cigar room, hookah, live DJs and weekly events. Mature atmosphere in the evening; kid-friendly until 6 PM.
 
-Website: https://triorva.com/
+Website: https://trio-restaurant-lounge-website.netlify.app/
 
 ## Contact and booking
 - Address: 3817 Hull Street Rd, Richmond, VA 23224
@@ -58,9 +58,9 @@ Website: https://triorva.com/
 - Signature cocktails: Hull Street Hennessy $15, White Hennessy $17, Strawberry Hennessy $14, Call Me Later $15, Pretty Dangerous $15, Trashcan $15, A Taste of Torri $14, Nikki Ikki Fruit Punch $14, Rum Punch $14, Juicy Fruit $12, South of the James $11, Baltimore Zoo $10, Long Island $8, Margarita $8 (top shelf $14), Mango/Strawberry Margarita $8.50, Marg-Trio $14, Teremana Margarita $12, Old Fashioned $14, Mojito $8.99, Lavender Lemon Drop.
 - Full bar: Hennessy, Patrón, Don Julio, Casamigos, Crown and more.
 
-Full menu: https://triorva.com/menu.html
-Weekly events: https://triorva.com/events.html
-Hours and directions: https://triorva.com/visit.html
+Full menu: https://trio-restaurant-lounge-website.netlify.app/menu.html
+Weekly events: https://trio-restaurant-lounge-website.netlify.app/events.html
+Hours and directions: https://trio-restaurant-lounge-website.netlify.app/visit.html
 
 ## Frequently asked questions
 - Do I need a reservation? Reservations are taken by phone at (804) 298-3775 and are recommended for busy event nights; tables and sections can also be requested by Instagram DM.

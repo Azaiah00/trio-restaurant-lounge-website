@@ -63,3 +63,8 @@ All photos come from Trio's own public Instagram and Facebook posts and must be 
 - **Proposed domain:** `triorva.com` (short, matches the TikTok handle). Alternatives: `triorestaurantrva.com`, `triorestaurantandlounge.com`.
 - Deploy on Netlify (see README). No forms on this site, so no Netlify Forms setup is needed.
 - After launch: add the URL to the Google Business Profile, Instagram/TikTok/Facebook bios and DoorDash; submit the sitemap in Google Search Console and Bing Webmaster Tools.
+
+
+## Live preview domain (updated 27 Sep 2026)
+The site is live at https://trio-restaurant-lounge-website.netlify.app/ and every canonical URL, Open Graph/Twitter tag, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this address.
+When the owner's own domain (triorva.com) is connected in Netlify, find-and-replace `trio-restaurant-lounge-website.netlify.app` with `triorva.com` across the .html/.xml/.txt/.toml files, then redeploy.
