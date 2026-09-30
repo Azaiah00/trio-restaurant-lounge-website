@@ -38,6 +38,19 @@
   [headers.values]
     Content-Type = "application/manifest+json"
 
+# Internal files: never serve (they stay in the repo for the team)
+[[redirects]]
+  from = "/LAUNCH-NOTES.md"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/README.md"
+  to = "/404.html"
+  status = 404
+  force = true
+
 # Pretty 404
 [[redirects]]
   from = "/*"
